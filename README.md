@@ -1,6 +1,6 @@
 # Random Java Codes 
 
-so this repository is kinda my personal sandbox for my java learning. I am gonna add various java files like practice scripts, mini-projects, and random code snippets I write through out my learning tutorials and fundamentals. 
+so this repository is kinda my personal sandbox for my java learning. I am gonna add various java files like practice scripts, mini projects and random code snippets I write through out my learning tutorials and fundamentals. 
 
 If you come accross this repo, it simply serves as a basic archive to track my coding progress and back up my work as I learn and test out new concepts.
 
